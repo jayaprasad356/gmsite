@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Web Projects|Graymatter Works </title>
+    <title>App Projects|Graymatter Works </title>
     <meta name="description" content="">
     <script src="themekit/scripts/jquery.min.js"></script>
     <script src="themekit/scripts/main.js"></script>
@@ -19,57 +19,11 @@
     <link rel="icon" href="media/favicon.png">
 </head>
 <body>
-    <div id="preloader"></div>
-    <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
-        <div class="container">
-            <div class="menu-brand">
-                <img src="media/logo.png" alt="logo" />
-            </div>
-            <i class="menu-btn"></i>
-            <div class="menu-cnt">
-                <ul id="main-menu">
-                    <li >
-                        <a href="#">Home</a>
-                     
-                    </li>
-                    <li >
-                        <a href="#">Our service</a>
-                       
-                    </li>
-                    <li class="dropdown">
-                        <a href="#">Projects</a>
-                        <ul>
-                            <li>
-                                <a href="app-projects.html">App</a>
-                               
-                            </li>
-                            <li>
-                                <a href="web-projects.html">Website</a>
-                               
-                            </li>
-                        </ul>
-                    </li>
-                    <li >
-                        <a href="#">About us</a>
-                      
-                    </li>
-                   
-                    <li class="nav-label">
-                        <a href="#"><span>Call us:</span>7418676356</a>
-                    </li>
-                </ul>
-                <div class="menu-right">
-                    Tamilnadu, India
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
+<?php include 'header.php'; ?>
     
     <header class="header-image ken-burn-center light" data-parallax="true" data-natural-height="500" data-natural-width="1920" data-bleed="0" data-image-src="media/hd-wide-1.jpg" data-offset="0">
         <div class="container">
-            <h1>Web App Development</h1>
+            <h1>Mobile App Development</h1>
            
             
         </div>
@@ -89,9 +43,9 @@
                     <div class="maso-box">
                         <div class="maso-item cat-2 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/web1.jpg" alt="" /></a>
+                                <a href="#" class="img-box"><img src="media/booksbear.jpg" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Jertz</h2>
+                                    <h2>Books Bear</h2>
                                     
                                     <p>
                                         All over India,Books Bear buys,sells,rents and donate books
@@ -102,9 +56,9 @@
                         </div>
                         <div class="maso-item cat-1 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/web2.jpg" alt="" /></a>
+                                <a href="#" class="img-box"><img src="media/brainnbrain.jpg" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Mega Jackpot</h2>
+                                    <h2>Braino Brain</h2>
                                    
                                     <p>
                                        The abacus is very simple calculator used in china, japan, korea and so on. 
@@ -115,9 +69,9 @@
                         </div>
                         <div class="maso-item cat-1">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/web3.jpg" alt="" /></a>
+                                <a href="#" class="img-box"><img src="media/autobot.jpg" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Kaalgyaan</h2>
+                                    <h2>AutoBot</h2>
                                    
                                     <p>
                                        Across India, AutoBot Provides parts for bikes and spare
@@ -128,9 +82,9 @@
                         </div>
                         <div class="maso-item cat-2 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/web4.jpg" alt="" /></a>
+                                <a href="#" class="img-box"><img src="media/smartgram.jpg" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Abstract Mens</h2>
+                                    <h2>SmartGram</h2>
                                    
                                     <p>
                                         India is a mobile application helps an end user to check the latest Indian agricultural commodities mandi prices across different states and cities.
@@ -141,9 +95,9 @@
                         </div>
                         <div class="maso-item cat-2">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/web5.jpg" alt="" /></a>
+                                <a href="#" class="img-box"><img src="media/earningapp_1.jpg" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Earnjoy</h2>
+                                    <h2>Earning App</h2>
                                    
                                     <p>
                                         MLM mobile app is an add-on provided along with the MLM software to aid network- marketing companies to outperform their own metrics.
@@ -154,9 +108,9 @@
                         </div>
                         <div class="maso-item cat-2 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/web6.jpg" alt="" /></a>
+                                <a href="#" class="img-box"><img src="media/homeappliance_1.jpg" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Arrow Furniture</h2>
+                                    <h2>Home Appliances</h2>
                                     
                                     <p>
                                         We have taken multiple steps to ensure a hygenic service experience in the safety of your home.Through the app , you can book at home services.
@@ -170,50 +124,6 @@
             </div>
         </section>
     </main>
-    <footer class="light">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <h3>Execoore</h3>
-                    <p>Full suite enable teams to develop unique search and discovery experiences.</p>
-                    <div class="icon-links icon-social icon-links-grid social-colors">
-                        <a class="facebook"><i class="icon-facebook"></i></a>
-                        <a class="twitter"><i class="icon-twitter"></i></a>
-                        <a class="instagram"><i class="icon-instagram"></i></a>
-                        <a class="pinterest"><i class="icon-pinterest"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <h3>Resources</h3>
-                    <ul class="icon-list icon-line">
-                        <li><a href="#">Partners and advertising</a></li>
-                        <li><a href="#">About us and the company</a></li>
-                        <li><a href="#">Services and projects</a></li>
-                        <li><a href="#">Contact us online</a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-4">
-                    <ul class="text-list text-list-line">
-                        <li><b>Address</b><hr /><p>139 Baker St, E1 7PT, London</p></li>
-                        <li><b>Email</b><hr /><p>contacts@example.com</p></li>
-                        <li><b>Phone</b><hr /><p>(02) 123 333 444</p></li>
-                        <li><b>Opening hours</b><hr /><p>8am-5pm Mon - Fri</p></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bar">
-            <div class="container">
-                <span>© 2019 Execoore - Technology And Business Template Handmade by <a href="https://schiocco.com" target="_blank">schiocco.com</a>.</span>
-                <span><a href="#">Contact us</a> | <a href="#">Privacy policy</a></span>
-            </div>
-        </div>
-        <link rel="stylesheet" href="themekit/media/icons/iconsmind/line-icons.min.css">
-        <script src="themekit/scripts/parallax.min.js"></script>
-        <script src="themekit/scripts/glide.min.js"></script>
-        <script src="themekit/scripts/isotope.min.js"></script>
-        <script src="themekit/scripts/imagesloaded.min.js"></script>
-        <!-- <script src="https://themekit.dev/tools/sidebar/sidebar.js" data-setting="execoore"></script> -->
-    </footer>
+    <?php include 'footer.php'; ?>
 </body>
 </html>

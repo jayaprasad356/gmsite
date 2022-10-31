@@ -19,54 +19,7 @@
     <link rel="icon" href="media/favicon.png">
 </head>
 <body>
-    <div id="preloader"></div>
-    <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
-        <div class="container">
-            <div class="menu-brand">
-                <img src="media/logo.png" alt="logo" />
-            </div>
-            <i class="menu-btn"></i>
-            <div class="menu-cnt">
-                <ul id="main-menu">
-                    <li >
-                        <a href="#">Home</a>
-                     
-                    </li>
-                    <li >
-                        <a href="#">Our service</a>
-                       
-                    </li>
-                    <li class="dropdown">
-                        <a href="#">Projects</a>
-                        <ul>
-                            <li class="dropdown-submenu">
-                                <a href="app-projects.html">App</a>
-                               
-                            </li>
-                            <li class="dropdown-submenu">
-                                <a href="web-projects.html">Website</a>
-                               
-                               
-                            </li>
-                        </ul>
-                    </li>
-                    <li >
-                        <a href="#">About us</a>
-                      
-                    </li>
-                   
-                    <li class="nav-label">
-                        <a href="#"><span>Call us:</span>7418676356</a>
-                    </li>
-                </ul>
-                <div class="menu-right">
-                    Tamilnadu, India
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
+<?php include 'header.php'; ?>
     <header class="header-image ken-burn-center light" data-parallax="true" data-natural-height="500" data-natural-width="1920" data-bleed="0" data-image-src="media/hd-wide-2.jpg" data-offset="0">
         <div class="container" style="margin-top: 0px; opacity: 1;">
             <h1>We can develop anything you want!</h1>

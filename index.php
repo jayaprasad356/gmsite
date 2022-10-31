@@ -25,54 +25,8 @@ html, body {
 }
 </style>
 <body>
-    <div id="preloader"></div>
-    <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
-        <div class="container">
-            <div class="menu-brand">
-                <img src="media/logo.png" alt="logo" />
-            </div>
-            <i class="menu-btn"></i>
-            <div class="menu-cnt">
-                <ul id="main-menu">
-                    <li >
-                        <a href="#">Home</a>
-                     
-                    </li>
-                    <li >
-                        <a href="#">Our service</a>
-                       
-                    </li>
-                    <li class="dropdown">
-                        <a href="#">Projects</a>
-                        <ul>
-                            <li class="dropdown-submenu">
-                                <a href="app-projects.html">App</a>
-                               
-                            </li>
-                            <li class="dropdown-submenu">
-                                <a href="web-projects.html">Website</a>
-                               
-                               
-                            </li>
-                        </ul>
-                    </li>
-                    <li >
-                        <a href="#">About us</a>
-                      
-                    </li>
-                   
-                    <li class="nav-label">
-                        <a href="#"><span>Call us:</span>7418676356</a>
-                    </li>
-                </ul>
-                <div class="menu-right">
-                    Tamilnadu, India
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </nav>
+<?php include 'header.php'; ?>
+
     <main>
         <section class="section-image section-home-one no-padding-y" >
             <div class="container">
@@ -568,48 +522,6 @@ html, body {
         </section>
     </main>
     <i class="scroll-top-btn scroll-top show"></i>
-    <footer class="light">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <h3>Greymatter Works</h3>
-                    <p>Make your business online</p>
-                    
-                </div>
-                <div class="col-lg-4">
-                    <h3>Our Services</h3>
-                    <ul class="icon-list icon-line">
-                        <li><a href="#">App Development</a></li>
-                        <li><a href="#">Web Development</a></li>
-                        <li><a href="#">Web Designing</a></li>
-                        <li><a href="#">QA/Testing</a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-4">
-                    <ul class="text-list text-list-line">
-                        <li><b>Address</b><hr /><p>Tamilnadu,India</p></li>
-                        <li><b>Email</b><hr /><p>gmworkstech@gmail.com </p></li>
-                        <li><b>Phone</b><hr /><p>7418676356</p></li>
-                       
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bar">
-            <div class="container">
-                <span>Copyright © 2020 Graymatter Works. All rights reserved.</span>
-                <span><a href="#">Contact us</a> | <a href="#">Privacy policy</a></span>
-            </div>
-        </div>
-        <link rel="stylesheet" href="themekit/media/icons/iconsmind/line-icons.min.css">
-        <script src="themekit/scripts/parallax.min.js"></script>
-        <script src="themekit/scripts/glide.min.js"></script>
-        <script src="themekit/scripts/magnific-popup.min.js"></script>
-        <script src="themekit/scripts/tab-accordion.js"></script>
-        <script src="themekit/scripts/imagesloaded.min.js"></script>
-        <script src="themekit/scripts/progress.js" async></script>
-        <script src="themekit/scripts/contact-form/contact-form.js" async></script>
-        <!-- <script src="https://themekit.dev/tools/sidebar/sidebar.js" data-setting="execoore"></script> -->
-    </footer>
+    <?php include 'footer.php'; ?>
 </body>
 </html>
