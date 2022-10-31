@@ -46,11 +46,10 @@ html, body {
                         <h3 class="text-color-2">
                            Interested in Working with us?
                         </h3>
-                        <hr class="space-xs" />
-                        <a href="#contactus" class="btn btn-xs" type="submit">Get in Touch</a>
-                        
-                        <a href="tel:7418676356" class="btn btn-border btn-xs width-80 active full-width-xs">Call: 7418676356</a>
-                       
+                        <hr class="space-sm" />
+                        <a href="#contactus" class="btn btn-sm width-190 full-width-sm">Get in Touch</a>
+                        <a href="tel:7418676356" class="btn btn-border btn-sm width-190 active full-width-sm">Call: 7418676356</a>
+                        <hr class="space-lg" />
                         <hr class="space-lg" />
                     </div>
                     <div class="col-lg-5 hidden-md ">
