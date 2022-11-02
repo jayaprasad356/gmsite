@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-lg-4">
                     <ul class="text-list text-list-line">
-                        <li><b>Address</b><hr /><p>Tamilnadu,India</p></li>
+                        <li><b>Address</b><hr /><p>75, ganga street,trichy-620018</p></li>
                         <li><b>Email</b><hr /><p>info@graymatterworks.com </p></li>
                         <li><b>Phone</b><hr /><p>7418676356</p></li>
                        

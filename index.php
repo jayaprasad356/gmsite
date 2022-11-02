@@ -250,8 +250,8 @@ html, body {
                         </div><br>
                    
                     </div>
-                    <div class="col-lg-12" >
-                        <div class="grid-list" data-columns="4" data-columns-sm="2" data-columns-xs="1">
+                    <div class="col-12" >
+                        <div class="grid-list" data-columns="4" data-columns-sm="2" data-columns-xs="2">
                             <div class="grid-box">
                                 <div class="grid-item ">
                                     <div class="cnt-box cnt-box-team" >
