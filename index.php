@@ -54,7 +54,7 @@ html, body {
                     </div>
                     <div class="col-lg-5 hidden-md ">
                         <hr class="space-sm" />
-                        <img class="slide-image" style="height:280px; margin-left: 120px; margin-top:90px; opacity:99%;" src="media/homeimage2.png" alt="  " />
+                        <img class="slide-image" style="height:280px; margin-left: 120px; margin-top:90px; opacity:99%;" src="media/homeimg.jpeg" alt="  " />
                     </div>
                     <h3 class="text-color-2"  style=" margin-left:380px;margin-bottom:160px; font-size: 30px;;">
                         Why you choose us?
