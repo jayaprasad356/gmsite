@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,32 +20,34 @@
     <link rel="icon" href="media/favicon.png">
 </head>
 <style>
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
-}
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
 </style>
+
 <body>
-<?php include 'header.php'; ?>
+    <?php include 'header.php'; ?>
 
     <main>
-        <section class="section-image section-home-one no-padding-y" >
+        <section class="section-image section-home-one no-padding-y">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7">
                         <hr class="space-lg" />
-                       
+
                         <ul class="slider" data-options="arrows:false,nav:false,autoplay:3000,controls:out">
                             <li>
-                                <h1 class="text-uppercase">We are The Right Choice to Grow your Business!</h1>
+                                <h1 class="text-uppercase">We are the right choice to grow your business!</h1>
                             </li>
-                           
-                           
+
+
                         </ul>
-                        
+
                         <br>
                         <h3 class="text-color-2">
-                           Interested in Working with us?
+                            Interested in working with us?
                         </h3>
                         <hr class="space-sm" />
                         <a href="#contactus" class="btn btn-sm width-190 full-width-sm">Get in Touch</a>
@@ -56,15 +59,15 @@ html, body {
                         <hr class="space-sm" />
                         <img class="slide-image" style="height:280px; margin-left: 120px; margin-top:90px; opacity:99%;" src="media/homeimg.jpeg" alt="  " />
                     </div>
-                    <h3 class="text-color-2"  style=" margin-left:380px;margin-bottom:160px; font-size: 30px;;">
+                    <h3 class="text-color-2" style=" margin-left:380px;margin-bottom:160px; font-size: 30px;;">
                         Why you choose us?
-                      </h3>
-                     
+                    </h3>
+
                 </div>
-               
+
             </div>
         </section>
-       
+
         <section class="section-base section-overflow-top">
             <div class="container">
                 <div class="grid-list" data-columns="4" data-columns-md="2" data-columns-sm="1">
@@ -74,9 +77,9 @@ html, body {
                                 <i class="im-monitor-phone"></i>
                                 <div class="caption">
                                     <h2>Value For Money</h2>
-                                    
+
                                     <p>
-                                        We will deliver higher value through continuous improvement in quality,cost and speed.
+                                        We will deliver higher value through continuous improvement in quality, cost, and speed.
                                     </p>
                                 </div>
                             </div>
@@ -85,9 +88,9 @@ html, body {
                             <div class="cnt-box cnt-box-top-icon boxed">
                                 <i class="im-bar-chart2"></i>
                                 <div class="caption">
-                                    <h2>On Time Delivery</h2>
+                                    <h2>On-Time Delivery</h2>
                                     <p>
-                                       We ensure that every project completes on time or  given deadline is our top priority. 
+                                        We ensure that every project completes on time or within a given deadline, which is our top priority.
                                     </p>
                                 </div>
                             </div>
@@ -98,7 +101,7 @@ html, body {
                                 <div class="caption">
                                     <h2> Technologies</h2>
                                     <p>
-                                   We don't restrict to ourselves with old web development technologies.
+                                        We don't restrict ourselves to old web development technologies.
                                     </p>
                                 </div>
                             </div>
@@ -109,7 +112,7 @@ html, body {
                                 <div class="caption">
                                     <h2>Friendly Support</h2>
                                     <p>
-                                       We listen to you , understand your goals and determine how to deliver them.
+                                        We listen to you, understand your goals, and determine how to deliver them.
                                     </p>
                                 </div>
                             </div>
@@ -122,13 +125,13 @@ html, body {
                             <li>
                                 <a class="img-box   lightbox" href="" data-lightbox-anima="fade-top">
                                     <img src="media/image-3.jpg" alt="">
-                                    
+
                                 </a>
                             </li>
                             <li>
                                 <a class="img-box img-box-caption lightbox" href="media/image-16.jpg" data-lightbox-anima="fade-top">
                                     <img src="media/image-16.jpg" alt="">
-                                   
+
                                 </a>
                             </li>
                         </ul>
@@ -139,9 +142,9 @@ html, body {
                             <p>About us</p>
                         </div>
                         <p>
-                           Our Strategist & creative we, filled with Smart and talented People having great vision. Those people helps in creating a Visually appealing and user-friendly Website and apps that Promotes client business. Our creative web designers and developers can craft a websites, apps or a web application from Scratch.
+                            Our Strategist & creative we, filled with Smart and talented People having great vision. Those people help in creating a visually appealing and user-friendly website and apps that promote client business. Our creative web designers and developers can craft a website, an app, or a web application from scratch.
                         </p>
-                       
+
                     </div>
                 </div>
             </div>
@@ -168,21 +171,21 @@ html, body {
                                 <a href="#" class="img-box" style="height:230px;"><img src="media/website.jpg" alt="" /></a>
                                 <div class="caption">
                                     <h2>Website development</h2>
-                                    
+
                                     <p>
-                                        Our  Web development service include both front-end & back-end development. 
+                                        Our web development services include both front-end and back-end development.
                                     </p>
                                 </div>
                             </div>
                         </div>
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box"style="height:230px;"  ><img src="media/appdevelopment_1.jpg" alt="" /></a>
+                                <a href="#" class="img-box" style="height:230px;"><img src="media/appdevelopment_1.jpg" alt="" /></a>
                                 <div class="caption">
                                     <h2> Mobile App Development</h2>
-                                   
+
                                     <p>
-                                       Create an impactful mobile app that fits your brand and industry within a shorter time frame.
+                                        Create an impactful mobile app that fits your brand and industry within a shorter time frame.
                                     </p>
                                 </div>
                             </div>
@@ -192,133 +195,133 @@ html, body {
                                 <a href="#" class="img-box" style="height:230px; opacity:99%;"><img src="media/business1.jpg" alt="" /></a>
                                 <div class="caption">
                                     <h2>Business Website</h2>
-                                   
+
                                     <p>
-                                        As leading web design , we able to offer premium quality website at low price 
+                                        As leading web design , we able to offer premium quality website at low price
                                     </p>
                                 </div>
                             </div>
                         </div>
-            </div>
-                <hr class="space" />
-                <div class="grid-list" data-columns="3" data-columns-md="2" data-columns-sm="1" data-anima="fade-bottom" data-time="1000">
-                    <div class="grid-box">
-                        <div class="grid-item">
-                            <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box" style="height:230px;"><img src="media/design.jpg" alt="" /></a>
-                                <div class="caption">
-                                    <h2>Responsive Design</h2>
-                                    
-                                    <p> We ensure that our client's website is responsive on every device,so that no single customer is fost.our responsive website responds to the user's behaviour and environment </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="grid-item">
-                            <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box"style="height:230px;"  ><img src="media/testing.jpg" alt="" /></a>
-                                <div class="caption">
-                                    <h2> QA & Testing</h2>
-                                   
-                                    <p>
-                                        Many Web applications development agenciesdo not take enough steps to detect data breaches , but signity, we follow OWASP top 10 security concerns for our web application development  
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="grid-item">
-                            <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box" style="height:230px; opacity:99%;"><img src="media/e-commerce4.jpg" alt="" /></a>
-                                <div class="caption">
-                                    <h2> Ecommerce</h2>
-                                   
-                                    <p>
-                                        Maximum consumer first try to purchase any necessary goods from online.if you do not have any online presence , then you are losing &nbsp business
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        
-            </div>
-        </section>
-       
-       
-                <div class="row" data-anima="fade-bottom" data-time="1000">
-                    <div class="col-lg-12" style="margin-left:440px; font-size: 50px;">
-                        <div class="title">
-                            <h2  style="margin-left:120px;" >The big family</h2><br>
-                            <p style="margin-left:80px;margin-top:50px;">Our team</p>
-                        </div><br>
-                   
                     </div>
-                    <div class="col-12" >
-                        <div class="grid-list" data-columns="4" data-columns-sm="2" data-columns-xs="2">
-                            <div class="grid-box">
-                                <div class="grid-item ">
-                                    <div class="cnt-box cnt-box-team" >
-                                        <img src="media/jp.png" alt="" />
-                                        <div class="caption" >
-                                            <h2>JP</h2>
-                                            <span>Team Lead</span>
-                                            <span class="icon-links">
-                                               
-                                                <a href="" target="_blank" ><i class="icon-linkedin"></i></a>
-                                               
-                                            </span>
-                                           
-                                        </div>
+                    <hr class="space" />
+                    <div class="grid-list" data-columns="3" data-columns-md="2" data-columns-sm="1" data-anima="fade-bottom" data-time="1000">
+                        <div class="grid-box">
+                            <div class="grid-item">
+                                <div class="cnt-box cnt-box-info boxed" data-href="#">
+                                    <a href="#" class="img-box" style="height:230px;"><img src="media/design.jpg" alt="" /></a>
+                                    <div class="caption">
+                                        <h2>Responsive Design</h2>
+
+                                        <p> We ensure that our client's website is responsive on every device, so that no single customer is lost. Our responsive website responds to the user's behaviour and environment.</p>
                                     </div>
                                 </div>
-                                <div class="grid-item">
-                                    <div class="cnt-box cnt-box-team " >
-                                        <img src="media/tamil.png" alt="" />
-                                        <div class="caption">
-                                            <h2>Tamil</h2>
-                                            <span>App Developer</span>
-                                            <span class="icon-links">
-                                                
-                                                <a href="" target="_blank" ><i class="icon-linkedin"></i></a>
-                                                
-                                            </span>
-                                    
-                                        </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="cnt-box cnt-box-info boxed" data-href="#">
+                                    <a href="#" class="img-box" style="height:230px;"><img src="media/testing.jpg" alt="" /></a>
+                                    <div class="caption">
+                                        <h2> QA & Testing</h2>
+
+                                        <p>
+                                            Many Web applications development agenciesdo not take enough steps to detect data breaches , but signity, we follow OWASP top 10 security concerns for our web application development
+                                        </p>
                                     </div>
                                 </div>
-                                <div class="grid-item">
-                                    <div class="cnt-box cnt-box-team">
-                                        <img src="media/divakar.png" alt="" />
-                                        <div class="caption">
-                                            <h2>Divakar</h2>
-                                            <span>Web developer</span>
-                                            <span class="icon-links">
-                                               
-                                                <a href="" target="_blank" ><i class="icon-linkedin"></i></a>
-                                               
-                                            </span>
-                                        
-                                        </div>
+                            </div>
+                            <div class="grid-item">
+                                <div class="cnt-box cnt-box-info boxed" data-href="#">
+                                    <a href="#" class="img-box" style="height:230px; opacity:99%;"><img src="media/e-commerce4.jpg" alt="" /></a>
+                                    <div class="caption">
+                                        <h2> Ecommerce</h2>
+
+                                        <p>
+                                            The maximum number of consumers first try to purchase any necessary goods online. If you do not have any online presence, then you are losing business.
+                                        </p>
                                     </div>
                                 </div>
-                                <div class="grid-item">
-                                    <div class="cnt-box cnt-box-team">
-                                        <img src="media/nantha.png" alt="" />
-                                        <div class="caption">
-                                            <h2>Nandha</h2>
-                                            <span>Marketing Analyst</span>
-                                            <span class="icon-links">
-                                               
-                                                <a href="" target="_blank" ><i class="icon-linkedin"></i></a>
-                                               
-                                            </span>
-                                          
-                                        </div>
-                                    </div>
+                            </div>
+
+                        </div>
+        </section>
+
+
+        <div class="row" data-anima="fade-bottom" data-time="1000">
+            <div class="col-lg-12" style="margin-left:440px; font-size: 50px;">
+                <div class="title">
+                    <h2 style="margin-left:120px;">The big family</h2><br>
+                    <p style="margin-left:80px;margin-top:50px;">Our team</p>
+                </div><br>
+
+            </div>
+            <div class="col-12">
+                <div class="grid-list" data-columns="4" data-columns-sm="2" data-columns-xs="2">
+                    <div class="grid-box">
+                        <div class="grid-item ">
+                            <div class="cnt-box cnt-box-team">
+                                <img src="media/jp.png" alt="" />
+                                <div class="caption">
+                                    <h2>JP</h2>
+                                    <span>Team Lead</span>
+                                    <span class="icon-links">
+
+                                        <a href="" target="_blank"><i class="icon-linkedin"></i></a>
+
+                                    </span>
+
                                 </div>
-                                
                             </div>
                         </div>
+                        <div class="grid-item">
+                            <div class="cnt-box cnt-box-team ">
+                                <img src="media/tamil.png" alt="" />
+                                <div class="caption">
+                                    <h2>Tamil</h2>
+                                    <span>App Developer</span>
+                                    <span class="icon-links">
+
+                                        <a href="" target="_blank"><i class="icon-linkedin"></i></a>
+
+                                    </span>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="grid-item">
+                            <div class="cnt-box cnt-box-team">
+                                <img src="media/divakar.png" alt="" />
+                                <div class="caption">
+                                    <h2>Divakar</h2>
+                                    <span>Web developer</span>
+                                    <span class="icon-links">
+
+                                        <a href="" target="_blank"><i class="icon-linkedin"></i></a>
+
+                                    </span>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="grid-item">
+                            <div class="cnt-box cnt-box-team">
+                                <img src="media/nantha.png" alt="" />
+                                <div class="caption">
+                                    <h2>Nandha</h2>
+                                    <span>Marketing Analyst</span>
+                                    <span class="icon-links">
+
+                                        <a href="" target="_blank"><i class="icon-linkedin"></i></a>
+
+                                    </span>
+
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
+        </div>
+        </div>
         </section>
         <section class="section-base section-color">
             <div class="container">
@@ -333,13 +336,13 @@ html, body {
                             <li>
                                 <div class="cnt-box cnt-box-testimonials-bubble">
                                     <p>
-                                        Excellent Service provided, thankyou to everyone at the Web surgery for all their help
+                                    Excellent service was provided. Thank you to everyone at the web surgery for all their help.
                                     </p>
                                     <div class="thumb-bar">
                                         <!-- <img src="media/user-1.jpg" alt="" /> -->
                                         <p>
                                             <span>Josh Bystrom</span>
-                                           
+
                                         </p>
                                     </div>
                                 </div>
@@ -347,13 +350,13 @@ html, body {
                             <li>
                                 <div class="cnt-box cnt-box-testimonials-bubble">
                                     <p>
-                                        We have always found greymatter a pleasure to work with . They have been flexible and efficient value for money
+                                    We have always found grey matter a pleasure to work with. They have been flexible and efficient value for money
                                     </p>
                                     <div class="thumb-bar">
                                         <!-- <img src="media/user-5.jpg" alt="" /> -->
                                         <p>
                                             <span>Aswini</span>
-                                            
+
                                         </p>
                                     </div>
                                 </div>
@@ -361,13 +364,13 @@ html, body {
                             <li>
                                 <div class="cnt-box cnt-box-testimonials-bubble">
                                     <p>
-                                        The team communicates well and works quickly. I'm very pleased with this project well.
+                                    The team communicates well and works quickly. I'm very pleased with this project.
                                     </p>
                                     <div class="thumb-bar">
                                         <!-- <img src="media/user-4.jpg" alt="" /> -->
                                         <p>
                                             <span>Olivia</span>
-                                         
+
                                         </p>
                                     </div>
                                 </div>
@@ -375,13 +378,13 @@ html, body {
                             <li>
                                 <div class="cnt-box cnt-box-testimonials-bubble">
                                     <p>
-                                        Was a really great experience working with your team. Thank you for the hard work and great outcome.
+                                    It was a really great experience working with your team. Thank you for the hard work and great outcome.
                                     </p>
                                     <div class="thumb-bar">
                                         <!-- <img src="media/user-4.jpg" alt="" /> -->
                                         <p>
                                             <span>Olivia</span>
-                                         
+
                                         </p>
                                     </div>
                                 </div>
@@ -389,13 +392,13 @@ html, body {
                             <li>
                                 <div class="cnt-box cnt-box-testimonials-bubble">
                                     <p>
-                                        This team helped us to design an app and working with them was a very positive experience.
+                                    This team helped us to design an app, and working with them was a very positive experience.
                                     </p>
                                     <div class="thumb-bar">
                                         <!-- <img src="media/user-4.jpg" alt="" /> -->
                                         <p>
                                             <span>Olivia</span>
-                                         
+
                                         </p>
                                     </div>
                                 </div>
@@ -417,7 +420,7 @@ html, body {
                                         <h3>rating</h3>
                                         <div class="value">
                                             <span class="text-md" data-to="4" data-speed="5000">4</span>
-                                           
+
                                         </div>
                                     </div>
                                 </div>
@@ -429,7 +432,7 @@ html, body {
                                         <h3> Happy Clients</h3>
                                         <div class="value">
                                             <span class="text-md" data-to="15" data-speed="5000">15</span>
-                                           
+
                                         </div>
                                     </div>
                                 </div>
@@ -441,7 +444,7 @@ html, body {
                                         <h3>Projects</h3>
                                         <div class="value">
                                             <span class="text-md" data-to="25" data-speed="5000">25</span>
-                                            
+
                                         </div>
                                     </div>
                                 </div>
@@ -453,7 +456,7 @@ html, body {
                                         <h3>Team members</h3>
                                         <div class="value">
                                             <span class="text-md" data-to="15" data-speed="5000">15</span>
-                                           
+
                                         </div>
                                     </div>
                                 </div>
@@ -461,7 +464,7 @@ html, body {
                         </tr>
                     </tbody>
                 </table>
-    
+
             </div>
 
         </section>
@@ -476,10 +479,10 @@ html, body {
                             <p>Contact us now</p>
                         </div>
                         <p>
-                            As a leading Web development firm ,we provide experienced consultants, designers and developers to take your online presence to the next leave.<br>
-                            complete the form,email us at <b>gmworkstech@gmail.com</b> or contact us directly by phone at one of our many global office locations to talk about your next or an upcoming project. Need more convincing? just take a look at our client list to see just some of the brand names that graymatter works has helped and now call customers.
+                        As a leading Web development firm, we provide experienced consultants, designers, and developers to take your online presence to the next level.<br>
+                            complete the form,email us at <b>gmworkstech@gmail.com</b> or contact us directly by phone at one of our many global office locations to talk about your next or upcoming project. Need more convincing? Just take a look at our client list to see just some of the brand names that Graymatter Works has helped and now calls customers.
                         </p>
-                        
+
                     </div>
                     <div class="col-lg-6">
                         <form id="UCiFI" action="thtmekit/scripts/php/contact-form.php" class="form-box form-ajax form-ajax-wp" method="post" data-email="">
@@ -499,7 +502,7 @@ html, body {
                                 <div class="col-lg-4">
                                     <input id="job" name="job" placeholder="Job title" type="text" class="input-text" required="">
                                 </div>
-                               
+
                             </div>
                             <hr class="space-xs" />
                             <textarea id="Project" name="project" placeholder="Project details / inquiry" class="input-textarea" required=""></textarea>
@@ -523,4 +526,5 @@ html, body {
     <i class="scroll-top-btn scroll-top show"></i>
     <?php include 'footer.php'; ?>
 </body>
+
 </html>
