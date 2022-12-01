@@ -48,7 +48,7 @@
                                     <h2>Books Bear</h2>
                                     
                                     <p>
-                                        All over India,Books Bear buys,sells,rents and donate books
+                                    All over India, Bear buys, sells, rents, and donates books.
                                     </p>
                                     <a href="#" class="btn-text">Project Link</a>
                                 </div>
@@ -61,7 +61,7 @@
                                     <h2>Braino Brain</h2>
                                    
                                     <p>
-                                       The abacus is very simple calculator used in china, japan, korea and so on. 
+                                    The abacus is a very simple calculator used in China, Japan, Korea, and so on.
                                     </p>
                                     <a href="#" class="btn-text">Project Link</a>
                                 </div>
@@ -74,7 +74,7 @@
                                     <h2>AutoBot</h2>
                                    
                                     <p>
-                                       Across India, AutoBot Provides parts for bikes and spare
+                                    Across India, AutoBot provides parts for bikes and spare
                                     </p>
                                     <a href="#" class="btn-text">Project Link</a>
                                 </div>
@@ -87,7 +87,7 @@
                                     <h2>SmartGram</h2>
                                    
                                     <p>
-                                        India is a mobile application helps an end user to check the latest Indian agricultural commodities mandi prices across different states and cities.
+                                    India is a mobile application that helps an end user check the latest Indian agricultural commodities mandi prices across different states and cities.
                                     </p>
                                     <a href="#" class="btn-text">Project Link</a>
                                 </div>
@@ -100,7 +100,7 @@
                                     <h2>Earning App</h2>
                                    
                                     <p>
-                                        MLM mobile app is an add-on provided along with the MLM software to aid network- marketing companies to outperform their own metrics.
+                                    The MLM mobile app is an add-on provided along with the MLM software to aid network marketing companies in outperforming their own metrics.
                                     </p>
                                     <a href="#" class="btn-text">Project Link</a>
                                 </div>
@@ -113,7 +113,7 @@
                                     <h2>Home Appliances</h2>
                                     
                                     <p>
-                                        We have taken multiple steps to ensure a hygenic service experience in the safety of your home.Through the app , you can book at home services.
+                                     We have taken multiple steps to ensure a hygenic service experience in the safety of your home.Through the app, you can book home services.
                                     </p>
                                     <a href="#" class="btn-text">Project Link</a>
                                 </div>

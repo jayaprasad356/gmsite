@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,8 +19,9 @@
     <link rel="stylesheet" href="skin.css">
     <link rel="icon" href="media/favicon.png">
 </head>
+
 <body>
-<?php include 'header.php'; ?>
+    <?php include 'header.php'; ?>
     <header class="header-image ken-burn-center light" data-parallax="true" data-natural-height="500" data-natural-width="1920" data-bleed="0" data-image-src="media/hd-wide-2.jpg" data-offset="0">
         <div class="container" style="margin-top: 0px; opacity: 1;">
             <h1>We can develop anything you want!</h1>
@@ -62,33 +64,28 @@
                     <div class="col-lg-6">
                         <div class="row">
                             <div class="">
-                                <img alt="sign" src="media/mission.png" width="200" 
-                                height="200">
+                                <img alt="sign" src="media/mission.png" width="200" height="200">
                             </div>
-                            <div >
+                            <div>
                                 <h2 style="padding: 0 15px">Our Mission</h2>
                                 <p style="padding: 0 15px">
-                                    Graymatter Works help to build and develop website’s and application’s for business with provision of services from our team and with latest technologies to ensure the message is passed by to the right person and to improvise the relationship between business and customers.
+                                    Graymatter Works helps build and develop websites and applications for businesses with the provision of services from our team and with the latest technologies to ensure the message is passed to the right person and to improve the relationship between businesses and customers.
                                 </p>
                             </div>
 
                         </div>
 
                     </div>
-                    
+
                     <div class="col-lg-6">
                         <div class="row">
                             <div class="">
-                                <img alt="sign" src="media/vision.png" width="200" 
-                                height="200">
+                                <img alt="sign" src="media/vision.png" width="200" height="200">
                             </div>
-                            <div >
+                            <div>
                                 <h2 style="padding: 0 15px">Our Vision</h2>
                                 <p style="padding: 0 15px">
-                                    GreyMatter Works provides a fair and genuine quality services to business, And maintain a
-quality relationship between consumers and business, as the value of a business lies in the
-hands of customers and turns out to be trustworthy
-to the customer’s eyes.
+                                GreyMatter Works provides fair and genuine quality services to businesses and maintains a quality relationship between consumers and businesses, as the value of a business lies in the hands of its customers and turns out to be trustworthy in their eyes.
                                 </p>
                             </div>
 
@@ -107,7 +104,7 @@ to the customer’s eyes.
                                         <h3>rating</h3>
                                         <div class="value">
                                             <span class="text-md" data-to="4" data-speed="5000">4</span>
-                                           
+
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +116,7 @@ to the customer’s eyes.
                                         <h3> Happy Clients</h3>
                                         <div class="value">
                                             <span class="text-md" data-to="15" data-speed="5000">15</span>
-                                           
+
                                         </div>
                                     </div>
                                 </div>
@@ -131,7 +128,7 @@ to the customer’s eyes.
                                         <h3>Projects</h3>
                                         <div class="value">
                                             <span class="text-md" data-to="25" data-speed="5000">25</span>
-                                            
+
                                         </div>
                                     </div>
                                 </div>
@@ -143,7 +140,7 @@ to the customer’s eyes.
                                         <h3>Team members</h3>
                                         <div class="value">
                                             <span class="text-md" data-to="15" data-speed="5000">15</span>
-                                           
+
                                         </div>
                                     </div>
                                 </div>
@@ -156,12 +153,11 @@ to the customer’s eyes.
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="">
-                            <img alt="sign" src="media/about1.png" width="400" 
-                            height="400">
+                            <img alt="sign" src="media/about1.png" width="400" height="400">
                         </div>
 
                     </div>
-                    
+
                     <div class="col-lg-6">
                         <h2 style="padding: 0 15px">What We do ?</h2>
                         <p style="padding: 0 15px">
@@ -186,4 +182,5 @@ to the customer’s eyes.
     <?php include 'footer.php'; ?>
 
 </body>
+
 </html>
