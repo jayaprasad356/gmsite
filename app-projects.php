@@ -46,13 +46,39 @@
                                 <a href="#" class="img-box"><img src="media/telugu.png" alt="" /></a>
                                 <div class="caption">
                                     <h2>Telugu Calendar 2023</h2>
-                                    
                                     <p>
                                     Simple and Best Calendar app for the year 2023 and for all Telugu Speaking people across the world.
                                     </p>
                                     <a href="https://play.google.com/store/apps/details?id=com.telugucalendar.telugupanchangamr" class="btn-text">Project Link</a>
                                 </div>
                             </div>
+                        </div>
+                        <div class="maso-item cat-1 cat-3">
+                            <div class="cnt-box cnt-box-top boxed">
+                                <a href="#" class="img-box"><img src="media/cv.jpeg" alt="" /></a>
+                                <div class="caption">
+                                    <h2>CV Builder - Resume Builder</h2>
+                                   
+                                    <p>
+                                    Professional Resume Builder&CV-Resume Templates App 
+                                    </p>
+                                    <a href="https://play.google.com/store/apps/details?id=com.myapp.cvmaker" class="btn-text">Project Link</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="maso-item cat-1">
+                            <div class="cnt-box cnt-box-top boxed">
+                                <a href="#" class="img-box"><img src="media/new.png" alt="" /></a>
+                                <div class="caption">
+                                    <h2>Smart Tools</h2>
+                                   
+                                    <p>
+                                    Searching For All In One App To Help You Stay Organized And Productive And Healthy
+                                    </p>
+                                    <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>
+                                </div>
+                            </div>
+                        </div>
                         </div>
                     </div>
                 </div>
