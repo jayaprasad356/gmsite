@@ -15,9 +15,9 @@
                         <a href="#">Our service</a>
                        
                     </li>
-                    <li class="dropdown">
-                        <a href="#">Projects</a>
-                        <ul>
+                    <li class="">
+                        <a href="app-projects.php">Projects</a>
+                        <!--<ul>
                             <li class="dropdown-submenu">
                                 <a href="app-projects.php">App</a>
                                
@@ -27,7 +27,7 @@
                                
                                
                             </li>
-                        </ul>
+                        </ul>-->
                     </li>
                     <li >
                         <a href="about.php">About us</a>
