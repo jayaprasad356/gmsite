@@ -57,7 +57,7 @@
                             <div class="cnt-box cnt-box-top boxed">
                                 <a href="#" class="img-box"><img src="media/cv.jpeg" alt="" /></a>
                                 <div class="caption">
-                                    <h2>CV Builder - Resume Builder</h2>
+                                    <h2>CV Builder - Resume Builders</h2>
                                    
                                     <p>
                                     Professional Resume Builder&CV-Resume Templates App 
