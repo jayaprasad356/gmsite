@@ -43,79 +43,14 @@
                     <div class="maso-box">
                         <div class="maso-item cat-2 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/booksbear.jpg" alt="" /></a>
+                                <a href="#" class="img-box"><img src="media/telugu.png" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Books Bear</h2>
+                                    <h2>Telugu Calendar 2023</h2>
                                     
                                     <p>
-                                    All over India, Bear buys, sells, rents, and donates books.
+                                    Simple and Best Calendar app for the year 2023 and for all Telugu Speaking people across the world.
                                     </p>
-                                    <a href="#" class="btn-text">Project Link</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="maso-item cat-1 cat-3">
-                            <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/brainnbrain.jpg" alt="" /></a>
-                                <div class="caption">
-                                    <h2>Braino Brain</h2>
-                                   
-                                    <p>
-                                    The abacus is a very simple calculator used in China, Japan, Korea, and so on.
-                                    </p>
-                                    <a href="#" class="btn-text">Project Link</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="maso-item cat-1">
-                            <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/autobot.jpg" alt="" /></a>
-                                <div class="caption">
-                                    <h2>AutoBot</h2>
-                                   
-                                    <p>
-                                    Across India, AutoBot provides parts for bikes and spare
-                                    </p>
-                                    <a href="#" class="btn-text">Project Link</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="maso-item cat-2 cat-3">
-                            <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/smartgram.jpg" alt="" /></a>
-                                <div class="caption">
-                                    <h2>SmartGram</h2>
-                                   
-                                    <p>
-                                    India is a mobile application that helps an end user check the latest Indian agricultural commodities mandi prices across different states and cities.
-                                    </p>
-                                    <a href="#" class="btn-text">Project Link</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="maso-item cat-2">
-                            <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/earningapp_1.jpg" alt="" /></a>
-                                <div class="caption">
-                                    <h2>Earning App</h2>
-                                   
-                                    <p>
-                                    The MLM mobile app is an add-on provided along with the MLM software to aid network marketing companies in outperforming their own metrics.
-                                    </p>
-                                    <a href="#" class="btn-text">Project Link</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="maso-item cat-2 cat-3">
-                            <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/homeappliance_1.jpg" alt="" /></a>
-                                <div class="caption">
-                                    <h2>Home Appliances</h2>
-                                    
-                                    <p>
-                                     We have taken multiple steps to ensure a hygenic service experience in the safety of your home.Through the app, you can book home services.
-                                    </p>
-                                    <a href="#" class="btn-text">Project Link</a>
+                                    <a href="https://play.google.com/store/apps/details?id=com.telugucalendar.telugupanchangamr" class="btn-text">Project Link</a>
                                 </div>
                             </div>
                         </div>
