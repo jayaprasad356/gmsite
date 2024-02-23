@@ -49,7 +49,12 @@
                                     <p>
                                     Simple and Best Calendar app for the year 2023 and for all Telugu Speaking people across the world.
                                     </p>
-                                    <a href="https://play.google.com/store/apps/details?id=com.telugucalendar.telugupanchangamr" class="btn-text">Project Link</a>
+                                    <div class="d-flex justify-content-between">
+                                       <a href="https://play.google.com/store/apps/details?id=com.telugucalendar.telugupanchangamr" class="btn-text">Project Link</a>
+                                         <div class="d-flex justify-content-end">
+                                          <a href="#" style="width:100px;" class="btn btn-success">Buy Now</a>
+                                        </div>
+                                   </div>
                                 </div>
                             </div>
                         </div>
@@ -62,7 +67,12 @@
                                     <p>
                                     Professional Resume Builder&CV-Resume Templates App 
                                     </p>
-                                    <a href="https://play.google.com/store/apps/details?id=com.myapp.cvmaker" class="btn-text">Project Link</a>
+                                    <div class="d-flex justify-content-between">
+                                       <a href="https://play.google.com/store/apps/details?id=com.myapp.cvmaker" class="btn-text">Project Link</a>
+                                       <div class="d-flex justify-content-end">
+                                         <a href="#" style="width:100px;" class="btn btn-success">Buy Now</a>
+                                       </div>
+                                   </div>
                                 </div>
                             </div>
                         </div>
@@ -75,14 +85,19 @@
                                     <p>
                                     Searching For All In One App To Help You Stay Organized And Productive And Healthy
                                     </p>
-                                    <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>
+                                    <div class="d-flex justify-content-between">
+                                        <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>
+                                       <div class="d-flex justify-content-end">
+                                         <a href="#" style="width:100px;" class="btn btn-success">Buy Now</a>
+                                       </div>
+                                   </div>
                                 </div>
                             </div>
-                        </div>
                         </div>
                     </div>
                 </div>
             </div>
+         </div>
         </section>
     </main>
     <?php include 'footer.php'; ?>

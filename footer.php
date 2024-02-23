@@ -27,7 +27,7 @@
         </div>
         <div class="footer-bar">
             <div class="container">
-                <span>Copyright © 2020 Graymatter Works. All rights reserved.</span>
+                <span>Copyright © 2024 Graymatter Works. All rights reserved.</span>
                 <span><a href="#">Contact us</a> | <a href="#">Privacy policy</a></span>
             </div>
         </div>
