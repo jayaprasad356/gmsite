@@ -37,6 +37,10 @@
                         <a href="terms.php">Terms & Conditions</a>
                       
                     </li>
+                    <li >
+                        <a href="contact.php">Contact Us</a>
+                      
+                    </li>
                    
                     <li class="nav-label">
                         <a href="tel:7418676356"><span>Call us:</span>7418676356</a>
