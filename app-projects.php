@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>App Projects|Graymatter Works </title>
     <meta name="description" content="">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <script src="themekit/scripts/jquery.min.js"></script>
     <script src="themekit/scripts/main.js"></script>
     <link rel="stylesheet" href="themekit/css/bootstrap-grid.css">
@@ -52,7 +56,7 @@
                                     <div class="d-flex justify-content-between">
                                        <a href="https://play.google.com/store/apps/details?id=com.telugucalendar.telugupanchangamr" class="btn-text">Project Link</a>
                                          <div class="d-flex justify-content-end">
-                                          <a href="#" style="width:100px;" class="btn btn-success">Buy Now</a>
+                                         <a href="#" style="width:100px;" class="btn btn-success" data-toggle="modal" data-target="#checkoutModal">checkout</a>
                                         </div>
                                    </div>
                                 </div>
@@ -70,7 +74,7 @@
                                     <div class="d-flex justify-content-between">
                                        <a href="https://play.google.com/store/apps/details?id=com.myapp.cvmaker" class="btn-text">Project Link</a>
                                        <div class="d-flex justify-content-end">
-                                         <a href="#" style="width:100px;" class="btn btn-success">Buy Now</a>
+                                       <a href="#" style="width:100px;" class="btn btn-success" data-toggle="modal" data-target="#checkoutModal">checkout</a>
                                        </div>
                                    </div>
                                 </div>
@@ -88,7 +92,7 @@
                                     <div class="d-flex justify-content-between">
                                         <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>
                                        <div class="d-flex justify-content-end">
-                                         <a href="#" style="width:100px;" class="btn btn-success">Buy Now</a>
+                                       <a href="#" style="width:100px;" class="btn btn-success" data-toggle="modal" data-target="#checkoutModal">checkout</a>
                                        </div>
                                    </div>
                                 </div>
@@ -99,7 +103,61 @@
             </div>
          </div>
         </section>
+        <div class="modal fade" id="checkoutModal" tabindex="-1" role="dialog" aria-labelledby="checkoutModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="checkoutModalLabel">Check Out</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <!-- Form -->
+                <form id="checkoutForm">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" class="form-control" id="name" placeholder="Your Name">
+                    </div>
+                    <div class="form-group">
+                        <label for="mobile">Mobile</label>
+                        <input type="number" class="form-control" id="mobile" placeholder="Your Mobile Number">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" id="email" placeholder="Your Email Address">
+                    </div>
+                    <div>
+                     <span style="display: inline-block; margin-right: 10px;">price:</span>
+                       <h2 class="btn btn-primary">₹ 2999</h2>
+                   </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+             <button type="button" class="btn btn-primary">Proceed To Pay</button>
+            </div>
+        </div>
+    </div>
+</div>
     </main>
     <?php include 'footer.php'; ?>
+
+<!-- Your custom JavaScript -->
+<script>
+$(document).ready(function() {
+    $('#submitForm').click(function() {
+        var name = $('#name').val();
+        var mobile = $('#mobile').val();
+        var email = $('#email').val();
+        
+        // Here, you can add your code to process the form, such as an AJAX request to your server.
+        console.log(name, mobile, email); // Example action
+
+        // Optionally, close the modal after submission
+        $('#checkoutModal').modal('hide');
+    });
+});
+</script>
 </body>
 </html>
+
