@@ -29,7 +29,7 @@
         <div class="footer-bar">
             <div class="container">
                 <span>Copyright © 2024 Graymatter Works. All rights reserved.</span>
-                <span><a href="#">Contact us</a> | <a href="#">Privacy policy</a></span>
+                <span><a href="contact.php">Contact us</a></span>
             </div>
         </div>
         <link rel="stylesheet" href="themekit/media/icons/iconsmind/line-icons.min.css">
