@@ -6,7 +6,7 @@
                     <p>Make your business online</p>
                     
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <h3>Our Services</h3>
                     <ul class="icon-list icon-line">
                         <li><a href="#">App Development</a></li>
@@ -15,13 +15,12 @@
                         <li><a href="#">QA/Testing</a></li>
                     </ul>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-5" style="background-color:#003f5b;padding: 20px;">
                     <ul class="text-list text-list-line">
                         <li><b>Name</b><hr /><p>Tamilarasan Ramachandran</p></li>
-                        <li><b>Address</b><hr /><p>25, West Mambalam Street,Chennai -600033</p></li>
+                        <li><b>Address</b><hr /><p>25,West mambalam street,chennai-600033</p></li>
                         <li><b>Email</b><hr /><p>info@graymatterworks.com </p></li>
                         <li><b>Phone</b><hr /><p>7418676356</p></li>
-                       
                     </ul>
                 </div>
             </div>
