@@ -17,8 +17,8 @@
                 </div>
                 <div class="col-lg-5" style="background-color:#003f5b;padding: 20px;">
                     <ul class="text-list text-list-line">
-                        <li><b>Name</b><hr /><p>Tamilarasan Ramachandran</p></li>
-                        <li><b>Address</b><hr /><p>25,West mambalam street,chennai-600033</p></li>
+                        <li><b>Address</b><hr /><p>Plot No. 12, D-54, 9A Cross Rd, West Thillai Nagar</p></li>
+                        <li><b>City</b><hr /><p>Tiruchirappalli, Tamil Nadu 620018</p></li>
                         <li><b>Email</b><hr /><p>info@graymatterworks.com </p></li>
                         <li><b>Phone</b><hr /><p>7418676356</p></li>
                     </ul>
