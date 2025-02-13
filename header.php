@@ -2,7 +2,7 @@
     <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
         <div class="container">
             <div class="menu-brand">
-                <img src="media/logo.png" alt="logo" />
+                <img src="media/new_logo.png" alt="logo" />
             </div>
             <i class="menu-btn"></i>
             <div class="menu-cnt">

@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="themekit/css/contact-form.css">
     <link rel="stylesheet" href="themekit/css/media-box.css">
     <link rel="stylesheet" href="skin.css">
-    <link rel="icon" href="media/favicon.png">
+    <link rel="icon" href="media/new_logo.png">
 </head>
 <style>
     html,
@@ -318,7 +318,7 @@
                         </div>
                         <p>
                         As a leading Web development firm, we provide experienced consultants, designers, and developers to take your online presence to the next level.<br>
-                            complete the form,email us at <b>gmworkstech@gmail.com</b> or contact us directly by phone at one of our many global office locations to talk about your next or upcoming project. Need more convincing? Just take a look at our client list to see just some of the brand names that Graymatter Works has helped and now calls customers.
+                            complete the form,email us at <b>jayaprasad356@gmail.com</b> or contact us directly by phone at one of our many global office locations to talk about your next or upcoming project. Need more convincing? Just take a look at our client list to see just some of the brand names that Graymatter Works has helped and now calls customers.
                         </p>
 
                     </div>

@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="themekit/css/contact-form.css">
     <link rel="stylesheet" href="themekit/css/media-box.css">
     <link rel="stylesheet" href="skin.css">
-    <link rel="icon" href="media/favicon.png">
+    <link rel="icon" href="media/new_logo.png">
 </head>
 <body>
 <?php include 'header.php'; ?>
@@ -47,11 +47,11 @@
                     <div class="maso-box">
                         <div class="maso-item cat-2 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/telugu.png" alt="" /></a>
+                                <a href="#" class="img-box"><img src="media/support.jpg" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Telugu Calendar 2023</h2>
+                                    <h2>Confirmation Of Support</h2>
                                     <p>
-                                    Simple and Best Calendar app for the year 2023 and for all Telugu Speaking people across the world.
+                                    Your support is confirmed! We're here to assist you anytime.
                                     </p>
                                     <div class="d-flex justify-content-between">
                                        <a href="https://play.google.com/store/apps/details?id=com.telugucalendar.telugupanchangamr" class="btn-text">Project Link</a>
@@ -64,12 +64,11 @@
                         </div>
                         <div class="maso-item cat-1 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/cv.jpeg" alt="" /></a>
+                                 <a href="#" class="img-box"><img src="media/bug.jpg" alt="" /></a>
                                 <div class="caption">
-                                    <h2>CV Builder - Resume Builders</h2>
-                                   
+                                    <h2>Web Minor Bug Fixing</h2>
                                     <p>
-                                    Professional Resume Builder&CV-Resume Templates App 
+                                    Minor bugs? No worries!Quick fixes minor bugs to keep your website running smoothly."
                                     </p>
                                     <div class="d-flex justify-content-between">
                                        <a href="https://play.google.com/store/apps/details?id=com.myapp.cvmaker" class="btn-text">Project Link</a>
@@ -82,12 +81,120 @@
                         </div>
                         <div class="maso-item cat-1">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="media/new.png" alt="" /></a>
+                                <a href="#" class="img-box"><img src="media/app_bugs.jpg"  /></a>
                                 <div class="caption">
-                                    <h2>Smart Tools</h2>
+                                    <h2>App Minor Bug Fixing</h2>
                                    
                                     <p>
-                                    Searching For All In One App To Help You Stay Organized And Productive And Healthy
+                                    Fixing minor app bugs for a smoother and seamless experience!
+                                    </p>
+                                    <div class="d-flex justify-content-between">
+                                        <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>
+                                       <div class="d-flex justify-content-end">
+                                       <a href="#" style="width:100px;" class="btn btn-success" data-toggle="modal" data-target="#checkoutModal">checkout</a>
+                                       </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="maso-item cat-1">
+                            <div class="cnt-box cnt-box-top boxed">
+                                <a href="#" class="img-box"><img src="media/web.jpg"  /></a>
+                                <div class="caption">
+                                    <h2>Basic Web Development</h2>
+                                   
+                                    <p>
+                                    Build responsive and dynamic websites with essential web development skills!
+                                    </p>
+                                    <div class="d-flex justify-content-between">
+                                        <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>
+                                       <div class="d-flex justify-content-end">
+                                       <a href="#" style="width:100px;" class="btn btn-success" data-toggle="modal" data-target="#checkoutModal">checkout</a>
+                                       </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="maso-item cat-1">
+                            <div class="cnt-box cnt-box-top boxed">
+                                <a href="#" class="img-box"><img src="media/app_develpoment.avif"  /></a>
+                                <div class="caption">
+                                    <h2>Basic App Development</h2>
+                                   
+                                    <p>
+                                    Create user-friendly and efficient mobile apps with  development skills!
+                                    </p>
+                                    <div class="d-flex justify-content-between">
+                                        <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>
+                                       <div class="d-flex justify-content-end">
+                                       <a href="#" style="width:100px;" class="btn btn-success" data-toggle="modal" data-target="#checkoutModal">checkout</a>
+                                       </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="maso-item cat-1">
+                            <div class="cnt-box cnt-box-top boxed">
+                                <a href="#" class="img-box"><img src="media/resume.jpg"  /></a>
+                                <div class="caption">
+                                    <h2>Resume Build App</h2>
+                                   
+                                    <p>
+                                    Easily create a professional resume with our Resume Build App!
+                                    </p>
+                                    <div class="d-flex justify-content-between">
+                                        <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>
+                                       <div class="d-flex justify-content-end">
+                                       <a href="#" style="width:100px;" class="btn btn-success" data-toggle="modal" data-target="#checkoutModal">checkout</a>
+                                       </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="maso-item cat-1">
+                            <div class="cnt-box cnt-box-top boxed">
+                                <a href="#" class="img-box"><img src="media/ecommerce.webp"  /></a>
+                                <div class="caption">
+                                    <h2>E-commerce App</h2>
+                                   
+                                    <p>
+                                    Launch your online store effortlessly with our E-commerce App!
+                                    </p>
+                                    <div class="d-flex justify-content-between">
+                                        <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>
+                                       <div class="d-flex justify-content-end">
+                                       <a href="#" style="width:100px;" class="btn btn-success" data-toggle="modal" data-target="#checkoutModal">checkout</a>
+                                       </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="maso-item cat-1">
+                            <div class="cnt-box cnt-box-top boxed">
+                                <a href="#" class="img-box"><img src="media/multi.jpg"  /></a>
+                                <div class="caption">
+                                    <h2>Multi-Vendor App With Web</h2>
+                                   
+                                    <p>
+                                    Grow your business with our Multi-Vendor App & Web Platform!
+                                    </p>
+                                    <div class="d-flex justify-content-between">
+                                        <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>
+                                       <div class="d-flex justify-content-end">
+                                       <a href="#" style="width:100px;" class="btn btn-success" data-toggle="modal" data-target="#checkoutModal">checkout</a>
+                                       </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="maso-item cat-1">
+                            <div class="cnt-box cnt-box-top boxed">
+                                <a href="#" class="img-box"><img src="media/crm.png"  /></a>
+                                <div class="caption">
+                                    <h2>CRM software with 1-year support</h2>
+                                   
+                                    <p>
+                                    Boost your business efficiency with our CRM software  includes 1-year support!
                                     </p>
                                     <div class="d-flex justify-content-between">
                                         <a href="https://play.google.com/store/apps/details?id=com.vedha.smart_tools" class="btn-text">Project Link</a>

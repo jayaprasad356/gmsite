@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="themekit/css/contact-form.css">
     <link rel="stylesheet" href="themekit/css/media-box.css">
     <link rel="stylesheet" href="skin.css">
-    <link rel="icon" href="media/favicon.png">
+    <link rel="icon" href="media/new_logo.png">
 </head>
 
 <body>
